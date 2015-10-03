@@ -1,2 +1,2 @@
 puts "Print your name"
-10.times {puts "Sivakumar"}
+10.times {puts "Anitha"}
